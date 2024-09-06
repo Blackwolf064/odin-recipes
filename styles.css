@@ -1,0 +1,19 @@
+/* Add css styling */
+body {
+    background-color: rgb(230, 229, 212);
+}
+
+.heading{
+    background-color: rgb(223, 99, 10);
+    text-align: center;
+    padding: 25px;
+    
+}
+
+/* .recipes{
+    text-align: auto;
+} */
+
+.Food-recipe{
+    font-size: 25px;
+}
