@@ -7,6 +7,7 @@ body {
 .heading{
     background-color: rgb(223, 99, 10);
     text-align: left;
+    margin: 0;
     padding: 25px;
 }
 
@@ -15,9 +16,16 @@ body {
 }
 
  img {
-    height: 400px;
+    max-width: 300px;
+    height: 300px;
     width: auto;
+    /* background-color: white; */
  }
+.food-3{
+    height: 300px;
+    /* width: auto; */
+}
+
  .sub-heading{
     background-color: black;
     color: white;
