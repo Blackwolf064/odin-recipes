@@ -6,6 +6,8 @@ body {
 
 .heading{
     background-color: rgb(223, 99, 10);
+    font-size: xx-large;
+    font-weight: bolder;
     text-align: left;
     margin: 0;
     padding: 25px;
@@ -21,10 +23,6 @@ body {
     width: auto;
     /* background-color: white; */
  }
-.food-3{
-    height: 300px;
-    /* width: auto; */
-}
 
  .sub-heading{
     background-color: black;
